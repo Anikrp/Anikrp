@@ -112,8 +112,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikrp&show_icons=true&count_private=true&hide_border=true&title_color=00875A&icon_color=00875A&text_color=c9d1d9&bg_color=0d1117" alt="Anik Roy Pranto's GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikrp&theme=dark&hide_border=true&stroke=00875A&ring=00875A&fire=00875A&currStreakLabel=00875A" alt="GitHub Streak Stats" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anikrp&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
