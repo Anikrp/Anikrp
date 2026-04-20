@@ -25,7 +25,7 @@
 ```typescript
 const anik = {
   name:     "Anik Roy Pranto",
-  role:     "Full Stack Software Engineer",
+  role:     "Full Stack Software Engineer, AI Engineer",
   website:  "https://arpcodes.com",
   location: "Bangladesh 🇧🇩",
   email:    "anikroy003@gmail.com",
