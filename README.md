@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+scalable+full-stack+systems;MERN+Stack+%7C+Cloud+%7C+DevOps;Open+source+contributor+%26+collaborator;Always+shipping%2C+always+learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+scalable+full-stack+systems;Ai+Engineer+%7C+Cloud+%7C+DevOps;Open+source+contributor+%26+collaborator;Always+shipping%2C+always+learning" />
 
 <br/>
 
